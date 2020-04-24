@@ -1,0 +1,18 @@
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\bin\Debug\Panel Login Register Galaxy.exe.config
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\bin\Debug\Panel Login Register Galaxy.exe
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\bin\Debug\Panel Login Register Galaxy.pdb
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\obj\Debug\Panel Login Register Galaxy.csprojAssemblyReference.cache
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\obj\Debug\Panel_Login_Register_Galaxy.Form1.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\obj\Debug\Panel_Login_Register_Galaxy.Properties.Resources.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\obj\Debug\Panel Login Register Galaxy.csproj.GenerateResource.cache
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\obj\Debug\Panel Login Register Galaxy.csproj.CoreCompileInputs.cache
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\obj\Debug\Panel Login Register Galaxy.exe
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\obj\Debug\Panel Login Register Galaxy.pdb
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\bin\Debug\AuthGG.dll
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\obj\Debug\Panel Login Register Galaxy.csproj.CopyComplete
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\bin\Debug\theme.dll
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\obj\Debug\Panel_Login_Register_Galaxy.register.resources
+C:\Users\oldmo\Desktop\pc\Games\TOUT\dev\opensource\panel connexion register galaxy\Panel Login Register Galaxy\Panel Login Register Galaxy\obj\Debug\Panel_Login_Register_Galaxy.main.resources
